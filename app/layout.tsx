@@ -13,9 +13,9 @@ import { ClerkProvider } from "@clerk/nextjs";
 const openSans = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Discord Clone",
+  title: "EchoVerse",
   description:
-    "Discord Clone with Next.js, React.js, TailWindCSS & TypeScript."
+    "EchoVerse with Next.js, React.js, TailWindCSS & TypeScript."
 };
 
 export default function RootLayout({
